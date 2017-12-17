@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OctabaApp</string>
+    <string name="cell0">cell 0</string>
+    <string name="cell1">cell 1</string>
+    <string name="cell2">cell 2</string>
+    <string name="cell3">cell 3</string>
+    <string name="ok">OK</string>
+</resources>
